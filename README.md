@@ -1,2 +1,2 @@
 # pythonprojects
-Welcome to my repository! This is where I upload my Python Projects.
+Welcome to my repository! This is where I store my Python Projects.
